@@ -1,0 +1,25 @@
+{
+  "name": "fritz-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "log": "node log"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardwaresoftwork/fritz-log.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hardwaresoftwork/fritz-log/issues"
+  },
+  "homepage": "https://github.com/hardwaresoftwork/fritz-log#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fritzdect-aha-nodejs": "^2.1.0"
+  }
+}
